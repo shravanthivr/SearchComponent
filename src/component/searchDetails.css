@@ -1,0 +1,10 @@
+.results ul {
+    list-style-type: none;
+    padding: 0;
+  }
+
+.drug-details-page {
+  width: 30%;
+  margin: 4rem;
+  display:grid;
+}
